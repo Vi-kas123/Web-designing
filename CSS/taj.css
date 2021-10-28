@@ -1,0 +1,230 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header{
+	border: 1px solid black;
+	width: 100%;
+	height: 45px;
+	background-color: #ffffff;
+}
+.header img{
+	padding-left: 20px;
+	padding-top: 5px;
+}
+.header a{
+	float: right;
+    padding-top: 17px;
+    color: #4a4a4a;
+    text-decoration: none;
+   font-family: "museo-sans", sans-serif;
+   padding-right: 20px;
+   font-size: 11px;
+   font-weight: bold;
+}
+.banner{
+	background: url('../image/dekho.jpeg');
+	height: 425px;
+	width: 100%;
+}	
+.banner p{
+	text-align: center;
+	 	font-size: 12px;
+	background-color: #bc8743;
+	 	position: relative;
+	 	top: 350px;
+	 	margin: auto;
+	 	width: 100px;
+	 	color: white;
+	 	height: 27px;
+	 	line-height: 25px;
+	 	font-weight: bold;
+	 	text-decoration: none;
+	 	font-family: "museo-sans", sans-serif;
+}
+.bookdirect{
+	width: 100%;
+	height: 100px;
+	background: whitesmoke;
+}
+.bookdirect img{
+	float: right;
+	padding-right: 20px;
+}
+.bookdirect p{
+	padding-left: 50px;
+	padding-top: 40px;
+	float: left;
+	font-size: 24px;
+	font-family: "museo-sans", sans-serif;
+	font-weight: bold;
+	color: black;
+}
+.learnmore{
+	width: 100%;
+	height: 70px;
+	background-color: #ae7c39;
+}
+.learnmore img{
+	width: 500px;
+	height: 70px;
+}
+.learnmore a{
+	float: right;
+	line-height: 70px;
+	padding-right: 80px;
+	font-family: "museo-sans", sans-serif;
+	color: white;
+	font-weight: bold;
+}
+.offers{
+       width: 350px;
+       height: 500px;
+       float: left;
+       margin-left: 20px;
+       background-color: #ffffff;
+}
+.offers img{
+	height: 300px;
+	width: 350px;
+	padding-top: 40px;
+}
+.offers p{
+	font-size: 12px;
+	padding-top: 15px;
+	padding-left: 25px;
+	font-family: "museo-sans", sans-serif;
+}
+.offers h5{
+	padding-left: 25px;
+	padding-top: 10px;
+	font-family: "museo-sans", sans-serif;
+}
+.right{
+	float: right;
+	padding-right: 25px;
+}
+.h{
+	position: relative;
+	margin: auto;
+	width: 110px;
+	height: 20px;
+	background: #ae7c39;
+	color: whitesmoke;
+	float: right;
+	right: 20px;
+	padding-bottom: 4px;
+	padding-top: 5px;
+}
+.popular{
+	
+	height: 370px;
+	width: 280px;
+	margin: auto;
+	float: right;
+	margin-top: 200px;
+	margin-right: 20px;
+	background-color: #ffffff;
+}
+.popular p{
+	padding-left: 15px;
+	padding-top: 10px;
+	font-family: "museo-sans", sans-serif;
+	font-size: 14px;
+}
+.details{
+	position: relative;
+	margin: auto;
+	width: 110px;
+	height: 20px;
+	background: #ae7c39;
+	color: whitesmoke;
+	float: right;
+	right: 20px;
+	padding-bottom: 4px;
+	padding-top: 10px;
+	bottom: 5px;
+}
+.brands{
+	
+	width: 350px;
+	height: 550px;
+	float: left;
+	margin-top: 150px;
+	margin-right: 15px;
+	background-color: #ffffff;
+}
+.brands img{
+	width: 350px;
+	height: 410px;
+}
+.transparent{
+	background-color: #dfdbdbb3;
+	height: 60px;
+	width: 350px;
+	margin-top: -65px;
+	position: relative;
+}
+.transparent img{
+	width: 100px;
+	height: 50px;
+	padding-left: 120px;
+	padding-top: 5px;
+}
+.brands p{
+	padding-left: 10px;
+	padding-top: 16px;
+	font-family: "museo-sans", sans-serif;
+	font-size: 14px;
+}
+.detail{
+	position: relative;
+	margin: auto;
+	width: 110px;
+	height: 20px;
+	background: #ae7c39;
+	color: whitesmoke;
+	float: right;
+	right: 20px;
+	top: 20px;
+	bottom: 5px;
+}
+.happenings{
+	width: 550px;
+	height: 400px;
+	float: left;
+	margin-top: 170px;
+	background-color: #ffffff;
+	margin-right: 20px;
+}
+.happenings img{
+	width: 550px;
+	height: 300px;
+	padding-top: 10px;
+}
+.happenings p{
+	padding-left: 10px;
+	padding-top: 5px;
+	font-family: "museo-sans", sans-serif;
+	font-size: 18px;
+}
+.footer{
+	width: 100%;
+	height: 350px;
+	background-color: #ddd9d9;
+	float: left;
+	margin-top: 100px;
+}
+table,tr,th,td{
+    		width: 800px;
+    		height: 30px;
+    		text-align: center;
+    	}
+    	td{
+    		font-size: 11px;
+    		font-family: "museo-sans", sans-serif;
+    		color: black;
+    	}
+
+

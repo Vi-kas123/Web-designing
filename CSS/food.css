@@ -1,0 +1,133 @@
+*{
+		padding: 0;
+		margin: 0;
+	}
+	.header{
+		width: 100%;
+		height: 65px;
+		position: fixed;
+		border: 1px solid white;
+		background-color: white;
+		margin-top: -10px;
+
+	}
+	.header img{
+		padding-left: 140px;
+		padding-top: 14px;
+	}
+	.header a{
+		float: right;
+		padding-top: 25px;
+		padding-right: 35px;
+		text-decoration: none;
+		color: #e14d8b;
+		font-size: 18px;
+	}
+	.banner{
+		background: url('../image/foodpan.jpg');'
+		width: 100%;
+		height: 470px;
+		background-size: cover;
+	}
+	.banner p{
+		position: relative;
+		font-size: 40px;
+		color: black;
+		top: 300px;
+		font-family: "museo-sans", sans-serif;
+		text-decoration: none;
+	}
+	.country{
+		border: 1px solid black;
+		width: 100%;
+		height: 55px;
+		margin-top: 40px;
+		background-color: #555555;
+
+	}
+	.country img{
+		width: 44px;
+		height: 20px;
+		padding-top: 16px;
+		float: right;
+		padding-right: 15px;
+	}
+	.country p{
+		float: left;
+		color: white; 
+		padding-top: 10px;
+		padding-left: 130px;
+		font-family: "museo-sans", sans-serif;
+	}
+	.dis{
+		background-color: white;
+		width: 100%;
+		height: 350px;
+	}
+	.description{
+		color: #cf0e60;
+		font-family: "museo-sans", sans-serif;
+		font-size: 25px;
+		margin-top: 200px;
+	}
+	.descr{
+         color: #676767;
+		font-family: "museo-sans", sans-serif;
+		font-size: 18px;
+	}
+	.learn{
+		background-color: #cf0e60;
+		margin: auto;
+		width: 18%;
+		height: 30px;
+		font-family: "museo-sans", sans-serif;
+		padding-top: 15px;
+		font-size: 14px;
+		color: white;
+		margin-top: 30px;
+	}
+	.image{
+          background: url(../Image/foodp.jpg);
+          background-size: cover;
+          width: 100%;
+          height: 900px;
+          background-attachment: fixed;
+	}
+	.image1{
+          background: url(../Image/food1.jpg);
+          background-size: cover;
+          width: 100%;
+          height: 700px;
+          background-attachment: fixed;
+	}
+	.career{
+		font-family: "museo-sans", sans-serif;
+		font-size: 30px;
+		text-align: center;
+	}
+	.Abovefooter{
+		width: 100%;
+		height: 600px;
+		background-color: #cf0e60;
+	}
+	.contactus{
+		background-color: white;
+		margin: auto;
+		width: 18%;
+		height: 30px;
+		font-family: "museo-sans", sans-serif;
+		padding-top: 15px;
+		font-size: 14px;
+		color: #cf0e60;
+		margin-top: 30px;
+	}
+	.footer{
+		background-color: white;
+		width: 100%;
+		height: 100px;
+	}
+	.footer a{
+		float: right;
+		color: #676767;
+		padding-right: 20px;
+	}

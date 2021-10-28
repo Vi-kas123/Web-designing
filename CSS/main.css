@@ -1,0 +1,105 @@
+.a{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: prague;
+    letter-spacing: 5px;
+}
+.b{
+  text-align: justify;
+  line-height: 35px;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+}
+.c{
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+.img{
+  width: 75%;
+}
+.w{
+  width: 100%;
+  background-image: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+  background-size: cover;
+}
+.s{
+  font-family: prague;
+    font-size: 50px;
+    margin-top: 100px;
+    letter-spacing: 5px;
+}
+.e{
+  line-height: 35px;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  color: white;
+}
+.kk{
+  margin-bottom: 120px;margin-top: 20px;
+}
+@media(max-width: 600px){
+  .kk{
+    margin-bottom: 50px;
+    margin-top: 20px;
+  }
+}
+@media(max-width: 600px){
+  .s{
+       font-family: prague;
+    color: #fff;
+    font-size: 32px;
+    margin-top: 70px;
+    letter-spacing: -3px;
+    font-weight: bold;
+  }
+}
+@media(max-width: 600px){
+     .img{
+      width: 100%;
+      margin-top: -60px;
+     }
+}
+.ll{
+   width: 90%;
+}
+.mm{
+  width: 90%;
+}
+@media(max-width:  500px)
+{
+     .ll{
+      width: 100%;
+     }
+     .mm{
+      width: 0;
+     }
+}
+.ww{
+
+  width: 100%;
+  background-image: url(https://www.firstfiddle.in/assets/images/outletbanner.png);
+  background-size: cover;
+}
+@media(max-width: 600px)
+{
+    .ww{
+       margin-top: -50px;
+    }
+}
+.pp{
+  background-color: #111215;
+}
+.oo{
+  width: 50%;
+  border: 1px solid white;
+  vertical-align: middle;
+  text-align: center;
+}
+.jj{
+  font-family: 'prague';
+    font-size: 39px;
+    line-height: 50px;
+    letter-spacing: 3px;
+    color: #fff;
+}
+
